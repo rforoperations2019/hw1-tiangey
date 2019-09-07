@@ -1,0 +1,12 @@
+name: hw1_tiangey
+title: hw1_tiangey
+username:
+account: tiangey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1161058
+bundleId: 2394416
+url: https://tiangey.shinyapps.io/hw1_tiangey/
+when: 1567861014.55064
+asMultiple: FALSE
+asStatic: FALSE
